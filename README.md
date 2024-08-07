@@ -23,3 +23,18 @@ This project involves the creation of a comprehensive HealthCare Provider Analys
 ## Key Metrics
 * ***Billing Amount:***  £3.36M
   *  Average Bill per Visit: £674.86  
+
+* ***Total Insurance:***  £2.23M
+  *  Average Insurance Coverage: £456.04
+
+* ***Total Medication:***  £546.04K
+  *  Average Medication Cost: £109.21
+
+* ***Total Treatment:***  £2.63M
+  *  Average Treatment Cost: £526.08
+ 
+* ***Out of Pocket:***  £1.13M
+  *  Average Out of Pocket: £227.26
+ 
+
+      
