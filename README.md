@@ -3,6 +3,9 @@
 ## Project Overview
 This project involves the creation of a comprehensive HealthCare Provider Analysis Dashboard that visualizes key metrics related to billing, insurance, medication, treatment, and departmental statistics within a healthcare provider setting.
 
+![wget](https://github.com/pratikphirke07/HealthCareProvider/blob/main/Healthcare_analysis_dashboard.png)
+
+
 ## Features
 * ***Total Billing Amount by Procedure:***
   *  Visualizes the total billing amounts for different medical procedures.
