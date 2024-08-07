@@ -6,3 +6,20 @@ This project involves the creation of a comprehensive HealthCare Provider Analys
 ## Features
 * ***Total Billing Amount by Procedure:***
   *  Visualizes the total billing amounts for different medical procedures.
+  *  Procedures included: X-Ray, CT Scan, MRI Scan, Ultrasound, Blood Test.
+    
+* ***Total Billing by City:***
+  *  Shows the distribution of billing amounts across different cities.
+  *  Cities included: Edinburgh, Birmingham, Sheffield, Glasgow, Leeds.
+ 
+* ***Total Billing Amount by Department:***
+  *  Displays the billing amounts across various departments.
+  *  Departments included: Cardiology, Orthopedics, General Surgery, Neurology, Pediatrics.
+
+* ***Total Billing Amount by Diagnosis & Service Type:***
+  *  Breaks down billing amounts by diagnosis and service type (Emergency, Inpatient, Outpatient).
+  *  Diagnoses included: Hypertension, Appendicitis, Asthma, Fracture, Migraine.w, Leeds.    
+ 
+## Key Metrics
+* ***Billing Amount:***  £3.36M
+  *  Average Bill per Visit: £674.86  
