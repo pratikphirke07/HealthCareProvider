@@ -42,6 +42,7 @@ This project involves the creation of a comprehensive HealthCare Provider Analys
 
 ## Video
 
-https://github.com/user-attachments/assets/8ac6a1b2-2b8a-4334-badc-34f62437a191
+
+https://github.com/user-attachments/assets/d813e059-f478-475d-b733-e15355defbe4
 
       
